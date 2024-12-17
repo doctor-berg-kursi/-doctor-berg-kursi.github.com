@@ -1,1 +1,1 @@
-# -doctor-berg-kursi.github.com
+# doctor-berg-kursi.github.com
